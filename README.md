@@ -3,6 +3,7 @@
 A program parancssorban fut, és egy Riot API kulcs szükséges hozzá, illetve a riotwatcher nevű library.
 
 [Riot Games developer oldala](https://developer.riotgames.com/ "Riot Games developer oldala")
+
 [Riotwatcher](https://pypi.org/project/riotwatcher/ "Riotwatcher oldala")
 
 ## Riotwatcher telepítése
