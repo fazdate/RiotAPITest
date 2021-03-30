@@ -6,13 +6,13 @@ A program parancssorban fut, és egy Riot API kulcs szükséges hozzá, illetve 
 [Riotwatcher](https://pypi.org/project/riotwatcher/ "Riotwatcher oldala")
 
 ## Riotwatcher telepítése
-`pip install riotwatcher
+`pip install riotwatcher`
 
 ## Program futtatása
 A programot parancssorban kell futtatni és 3 parancssori argumentum kell hozzá. 
 Az első parancssori argumentum az API kulcs. A második a játékos régiója a harmadik pedig a játékos neve.
 
-`python riot_api_test.py <API KULCS> <RÉGIÓ> <NÉV>
+`python riot_api_test.py <API KULCS> <RÉGIÓ> <NÉV>`
 
 |Régiók|
 |------|
